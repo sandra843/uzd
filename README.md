@@ -1,5 +1,4 @@
 # uzd
-Vārds, uzvārds:
 Sandra Lipiņa
 -------------
 
