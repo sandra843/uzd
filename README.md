@@ -19,7 +19,6 @@ Programmas instalācija:
 - izpakošana arhīva;
 - izmitināšana visu failu dažādās mapēs un pareizā secībā;
 - izveidot patstāvīgi darbojas komandām reģistrā un автозагрузке;
-- izveidot konfigurācijas failu, kas ļauj mainīt programmas iestatījumus turpmāk pēc lietotāja izvēles.
 
 Official installation method is via composer and its packagist package ranobe-website.github.io.
 
