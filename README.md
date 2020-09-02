@@ -10,7 +10,7 @@ Programmatūras prasības:
 - sistēmas atribūtus;
 
 
-Grāmatu meklēšana izveidotajā vietnē, kur tas atrodas (google maps), kalendārs, kontakti, ziņas, komentāri, prezentācija, jaunas grāmatas, arhīvs, utt
+Grāmatu meklēšana izveidotajā vietnē, kur tas atrodas (google maps), kalendārs, kontakti, ziņas, komentāri, prezentācija, jaunas grāmatas, arhīvs, galereja, utt
 
 Programmas instalācija:
 -----------------------
@@ -18,9 +18,9 @@ Programmas instalācija:
 - pārbaudi PC savietojamība;
 - izpakošana arhīva;
 - izmitināšana visu failu dažādās mapēs un pareizā secībā;
-- izveidot patstāvīgi darbojas komandām reģistrā un автозагрузке;
+- izveidot patstāvīgi darbojas komandām reģistrā un auto lejupielādēt;
 
-Official installation method is via composer and its packagist package ranobe-website.github.io.
+Oficiālā uzstādīšanas metode - caur composer un tās iepakojuma packagist ranobe-website.github.io.
 
 ```
 $ composer require ranobe-website.github.io
@@ -28,6 +28,7 @@ $ composer require ranobe-website.github.io
 
 Prorammas pielietojums:
 ------------------------
+Atrast interesējošo ranobe-grāmatu (nopirkt vai lejupielādēt) ir gan maksas gan bezmaksas. Iepazīstoties ar saturu ranobe-grāmatas, lai saprastu, par ko ir grāmata. satur tekstu un ilustrācijas, lieliski formatēti, var ietvert saites, skaņas, par to var meklēt un pr Turklāt, viņi ir īpašs formāts, precīzāk vienu no diviem formātiem, oficiāli uzskata par formātiem elektroniskās grāmatas, PDF.
 
 Izmantotā literatūra
 -----------------------
